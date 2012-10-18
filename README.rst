@@ -46,8 +46,7 @@ _______________________________________________________________________________
 | 5500 Campanile Dr.
 | San Diego, CA 92182-4493
 | Email: lan@mail.sdsu.edu
-
-
+|
 | Alex Zvoleff
 | SDSU/UCSB Joint Doctoral Candidate
 | Department of Geography
