@@ -5,6 +5,10 @@ CHANS Modules README
 Code Description
 _______________________________________________________________________________
 
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/azvoleff/chans
+   :target: https://gitter.im/azvoleff/chans?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 The CHANS repository is a collection of generalized submodules for modeling 
 coupled human and natural systems (CHANS). Construction of the CHANS repository 
 is supported as part of an ongoing National Science Foundation (NSF) 
